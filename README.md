@@ -36,3 +36,7 @@ MIT License
 
 ## Contributing
 Feel free to clone or fork the repo and create any changes you wish to make the application better!
+
+## Credits
+* https://www.geeksforgeeks.org/node-js-moment-module/
+* UCSD Bootcamp Module 18 Activities
