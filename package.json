@@ -1,0 +1,28 @@
+{
+  "name": "mongodbsocialnetworkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twqueen/MongoDBSocialNetworkAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twqueen/MongoDBSocialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/twqueen/MongoDBSocialNetworkAPI#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.5"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
