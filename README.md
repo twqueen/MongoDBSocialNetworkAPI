@@ -22,7 +22,7 @@ Or individual packages:
 Lastly, run `node index.js` from root and open server on insomnia.
 
 ## Usage
-Sample video link: 
+Demo video link: https://drive.google.com/file/d/1gsordvWhuLHmTqKakBpDUPm64JkqF8Su/view
 
 All Users:
 ![insomnia Screenshot All Users](./images/M18-SS-1.png)
